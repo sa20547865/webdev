@@ -1,2 +1,4 @@
 # webdev
-this is my first work
+THE ASSIGNMENT OF WEATHER APP FOR FIRST YEAR
+ https://sa20547865.github.io/webdev/ TAP HERE
+
